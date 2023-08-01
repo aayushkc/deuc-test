@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deuc-test/static/css/main.cc42b5ce.css",
-    "main.js": "/deuc-test/static/js/main.533d1a20.js",
+    "main.js": "/deuc-test/static/js/main.44dc37d1.js",
     "static/js/787.5fa191be.chunk.js": "/deuc-test/static/js/787.5fa191be.chunk.js",
     "static/media/drama.jpg": "/deuc-test/static/media/drama.4ed8da454dd79385329b.jpg",
     "static/media/childmeeting.jpg": "/deuc-test/static/media/childmeeting.11dc691049c66c2fad00.jpg",
@@ -19,11 +19,11 @@
     "index.html": "/deuc-test/index.html",
     "static/media/principle.svg": "/deuc-test/static/media/principle.f3ba95718025109a5c539bbe5b707eb3.svg",
     "main.cc42b5ce.css.map": "/deuc-test/static/css/main.cc42b5ce.css.map",
-    "main.533d1a20.js.map": "/deuc-test/static/js/main.533d1a20.js.map",
+    "main.44dc37d1.js.map": "/deuc-test/static/js/main.44dc37d1.js.map",
     "787.5fa191be.chunk.js.map": "/deuc-test/static/js/787.5fa191be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc42b5ce.css",
-    "static/js/main.533d1a20.js"
+    "static/js/main.44dc37d1.js"
   ]
 }
