@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/deuc-test/static/css/main.cc42b5ce.css",
-    "main.js": "/deuc-test/static/js/main.44dc37d1.js",
+    "main.css": "/deuc-test/static/css/main.f5f2523a.css",
+    "main.js": "/deuc-test/static/js/main.de0115e3.js",
     "static/js/787.5fa191be.chunk.js": "/deuc-test/static/js/787.5fa191be.chunk.js",
     "static/media/drama.jpg": "/deuc-test/static/media/drama.4ed8da454dd79385329b.jpg",
     "static/media/childmeeting.jpg": "/deuc-test/static/media/childmeeting.11dc691049c66c2fad00.jpg",
     "static/media/FinancialLiteracy.jpg": "/deuc-test/static/media/FinancialLiteracy.1b6c89b681f97cedba60.jpg",
+    "static/media/bootstrap-icons.woff?": "/deuc-test/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/psy counseling.jpg": "/deuc-test/static/media/psy counseling.1a61a137557353da7ed1.jpg",
+    "static/media/bootstrap-icons.woff2?": "/deuc-test/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/policies.jpg": "/deuc-test/static/media/policies.e716a211a6b008df75fd.jpg",
     "static/media/Ecd.jpg": "/deuc-test/static/media/Ecd.c0a2dc1b64367b9acc1d.jpg",
     "static/media/orgdig.png": "/deuc-test/static/media/orgdig.ca59a4ce7de4d1d6ff27.png",
@@ -18,12 +20,12 @@
     "static/media/policy.svg": "/deuc-test/static/media/policy.04ff5f7c0a40b93ff1dd0edce315970e.svg",
     "index.html": "/deuc-test/index.html",
     "static/media/principle.svg": "/deuc-test/static/media/principle.f3ba95718025109a5c539bbe5b707eb3.svg",
-    "main.cc42b5ce.css.map": "/deuc-test/static/css/main.cc42b5ce.css.map",
-    "main.44dc37d1.js.map": "/deuc-test/static/js/main.44dc37d1.js.map",
+    "main.f5f2523a.css.map": "/deuc-test/static/css/main.f5f2523a.css.map",
+    "main.de0115e3.js.map": "/deuc-test/static/js/main.de0115e3.js.map",
     "787.5fa191be.chunk.js.map": "/deuc-test/static/js/787.5fa191be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc42b5ce.css",
-    "static/js/main.44dc37d1.js"
+    "static/css/main.f5f2523a.css",
+    "static/js/main.de0115e3.js"
   ]
 }
